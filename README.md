@@ -1,6 +1,6 @@
 # Projeto EBOOK Gerado por I.A.s - **Atendimento Seguro com IA e Cibersegurança**
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte do curso na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte de um projeto do curso na plataforma da [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inteligência Artificial. Todos os prompts usados estão listados em Prompts. Alguns exemplos estão listados abaixo.
 
