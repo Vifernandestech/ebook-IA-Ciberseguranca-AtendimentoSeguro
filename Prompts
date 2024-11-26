@@ -1,0 +1,42 @@
+# Prompts Utilizados - ChatGPT
+
+- Atue como um doutor em comunicação com enfoque em publicidade e propaganda e que seja mestre em escrita e publicação de e-books (livros digitais).
+- Estou começando a desenvolver um projeto para o curso da DIO - Caixa IA generativa com Microsoft Copilot e o projeto atual é para desenvolver um e-book do zero a partir do uso de inteligências artificiais como você, ChatGPT. 
+- Primeiro quero sua ajuda para definir o tema que irei escrever o e-book.
+- Vou enviar algumas indeias e insights meus e contar um pouco sobre mim. A partir desses dados quero que me dê ideias de temas que terei capacidade de falar com clareza em meu e-book.
+- Analise os dados enviados. 
+- Junte todas as ideias e crie apenas 1 só tema.
+- Crie um título de um e-book sobre o tema "Segurança Cibernética, Inteligência Artificial e Atendimento ao Cliente: Como Proteger Dados e Garantir a Confiança no E-commerce e no Atendimento Presencial".
+- Analise os títulos que me sugeriu e use sua inteligência e seu poder preditivo para me sugerir apenas 1 deles. O título que me sugerir deve ser o título que mais me trará leitores.
+- Me escreva um texto para e-book com o tema definido por nós (tema: "Segurança Cibernética, Inteligência Artificial e Atendimento ao Cliente: Como Proteger Dados e Garantir a Confiança no E-commerce e no Atendimento Presencial") e com o título: "Atendimento Seguro: Como a IA e a Cibersegurança Podem Impulsionar Seu Negócio". 
+- Crie uma frase de rodapé para o e-book.
+- Crie agora uma página de agradecimentos e inclua o link do meu LinkedIn: www.linkedin.com/in/vifernandescybersec e o link do meu GitHub: https://github.com/Vifernandestech.
+- Traga os principais prompts que foram utilizados em nossa conversa durante o processo de criação do e-book.
+
+# Prompts Utilizados - Microsoft Copilot
+
+- Atue como um doutor em comunicação com enfoque em publicidade e propaganda e que seja mestre em escrita e publicação de e-books (livros digitais).
+- Estrutura do E-book: Planejar a estrutura do e-book, incluindo capítulos, seções e fluxos de conteúdo. Escrita: Escrever de forma clara e envolvente, utilizando uma linguagem que seja acessível e interessante para os leitores.
+- Adicione uma regra a seguir. SEMPRE traga dados verdadeiros. Cheque os dados e estatísticas fornecidas e traga as fontes no estilo ABNT.
+- CAPÍTULO 1: A Importância da Segurança no Atendimento ao Cliente
+- CAPÍTULO 2: O Papel da Inteligência Artificial na Construção da Confiança
+- CAPÍTULO 3: Integração de Segurança Cibernética e Atendimento Presencial
+- CAPÍTULO 4: Boas Práticas de Segurança no E-commerce e Atendimento Presencial
+- CAPÍTULO 5: Conclusão: A Confiança é o Seu Maior Patrimônio
+- Crie uma página de referências seguindo as normas ABNT.
+- Revise todo o conteúdo e veja se trouxe todas as referências.
+- Finalize.
+
+# Prompts Utilizados - LeonardoAI
+
+"A professional e-book cover design with the title 'Atendimento Seguro: Como a IA e a Cibersegurança Podem Impulsionar Seu Negócio.' 
+The background is a solid, deep blue color to represent trust and security. In the center, a glowing shield icon symbolizing cybersecurity is surrounded by abstract, subtle digital patterns or lines. 
+Above the shield, an abstract representation of AI—such as a neural network or a brain composed of interconnected digital nodes—is displayed. 
+The title is written in bold, modern white typography to contrast against the solid blue background, ensuring legibility. 
+The overall feel is sleek, professional, and secure."
+
+"A professional and futuristic e-book cover design with the title 'Atendimento Seguro: Como a IA e a Cibersegurança Podem Impulsionar Seu Negócio.' 
+The artwork features a sleek blend of a glowing shield icon symbolizing cybersecurity, interconnected digital lines, and an abstract AI brain with neural patterns. 
+The color palette includes shades of blue, white, and silver, evoking trust and technology, with subtle accents of gold for elegance. 
+The title is prominently displayed in bold, modern typography, complemented by a clean background with a high-tech aesthetic. 
+The overall tone is professional, secure, and innovative, suitable for a business-focused audience."
