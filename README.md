@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inteligência Artificial. Todos os prompts usados estão listados em Prompts. Alguns exemplos estão listados abaixo.
 
-<a href="[https://github.com/Vifernandestech/ebook-IA-Ciberseguranca-AtendimentoSeguro/blob/main/Ebook_AtendimentoSeguro_VFinal.pdf]" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="(https://github.com/Vifernandestech/ebook-IA-Ciberseguranca-AtendimentoSeguro/blob/main/Ebook_AtendimentoSeguro_VFinal.pdf)" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
