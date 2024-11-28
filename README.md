@@ -9,7 +9,7 @@ Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inte
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
-- [Microsoft Copilot](https://www.bing.com/ck/a?!&&p=3dee68bb7f1846df6686e73cc41b20840850586e7c5866673aaac50fd70d7934JmltdHM9MTczMjc1MjAwMA&ptn=3&ver=2&hsh=4&fclid=01ef3e3a-0ffe-6e87-2f18-2b0e0e286f37&psq=microsft+copilot&u=a1aHR0cHM6Ly9jb3BpbG90Lm1pY3Jvc29mdC5jb20vP21zb2NraWQ9MDFlZjNlM2EwZmZlNmU4NzJmMTgyYjBlMGUyODZmMzc&ntb=1). 
+- [Microsoft Copilot](https://www.bing.com/ck/a?!&&p=3dee68bb7f1846df6686e73cc41b20840850586e7c5866673aaac50fd70d7934JmltdHM9MTczMjc1MjAwMA&ptn=3&ver=2&hsh=4&fclid=01ef3e3a-0ffe-6e87-2f18-2b0e0e286f37&psq=microsft+copilot&u=a1aHR0cHM6Ly9jb3BpbG90Lm1pY3Jvc29mdC5jb20vP21zb2NraWQ9MDFlZjNlM2EwZmZlNmU4NzJmMTgyYjBlMGUyODZmMzc&ntb=1)
 - [LeonardoAI](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
