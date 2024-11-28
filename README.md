@@ -2,7 +2,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte de um projeto do curso na plataforma da [DIO](https://dio.me).
 
-Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inteligência Artificial. Todos os prompts usados estão listados na pasta Prompts dentro do repositório. Alguns exemplos estão listados abaixo no subtítulo "#Prompts".
+Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inteligência Artificial. Todos os prompts usados estão listados na pasta Prompts dentro do repositório. Alguns exemplos estão listados abaixo no subtítulo "# Alguns Prompts Usados ".
 
 [📕Clique aqui para ler o E-book](https://github.com/Vifernandestech/ebook-IA-Ciberseguranca-AtendimentoSeguro/blob/main/Ebook_AtendimentoSeguro_VFinal.pdf).
 
@@ -13,7 +13,7 @@ Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inte
 - [LeonardoAI](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## 🧠 Alguns Prompts Usados
 
 **ChatGPT:**
 
@@ -27,17 +27,18 @@ Projeto com o objetivo de gerar um e-book digital utilizando ferramentas de Inte
 
 |  Ação  | prompt                                                                          |
 | :----: | ------------------------------------------------------------------------------ |
-| Capa   | Crie uma imagem de capa para um e-book com foco em segurança cibernética e IA. |
+| Capa   | Crie uma imagem de capa para um e-book com foco em segurança cibernética e IA. | (Apenas um exemplo em português, porém o Prompt original foi utilizado em Inglês e está listado na pasta Prompts deste repositório) 
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT e Microsoft Copilot
+- Conteúdo gerado via ChatGPT e Microsoft Copilot e com revisão humana do autor
 - Imagens criadas com LeonardoAI
 - E-book diagramado em PowerPoint
 
 ## 📚 Materiais
 
 - E-book final disponível na pasta Ebook_AtendimentoSeguro_VFinal.pdf
+- Lista de Prompts usados listado na pasta Prompts neste repositório
 
 ## 🛠️ Instruções de execução
 
